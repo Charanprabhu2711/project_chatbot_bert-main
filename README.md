@@ -2,7 +2,7 @@ INTERFACE:-
 ![Screenshot (26)](https://github.com/Charanprabhu2711/project_chatbot_bert-main/blob/main/chatbot_icon.jpg)
 
 SYSTEM ARCHITECTURE:-
-![Screenshot (21)](https://github.com/Eswar1254/project_chatbot_bert/assets/116758728/aadac449-905e-474d-96ad-a06646bf8ea5)
+![Screenshot (21)](https://github.com/Charanprabhu2711/project_chatbot_bert-main/blob/main/Architecture.png.png)
 
 
 
